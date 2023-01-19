@@ -6,6 +6,7 @@
 - Factory Method
 - Builder
 - Abstract Factory
+
 ##Structural
 - Bridge
 - Composite
@@ -14,6 +15,7 @@
 - Flyweight
 - Proxy
 - Adapter
+
 ##Behavioral
 - Chain of Responsibility
 - Command
