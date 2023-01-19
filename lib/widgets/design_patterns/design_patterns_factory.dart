@@ -5,9 +5,8 @@ class DesignPatternsFactoryException implements Exception {
   final String message;
 
   const DesignPatternsFactoryException(this.message);
-
-  
 }
+
 class DesignPatternsFactory {
   const DesignPatternsFactory._();
 
@@ -15,8 +14,8 @@ class DesignPatternsFactory {
     switch (id) {
       // case 'abstract-factory':
       //   return const AbstractFactoryExample();
-      // case 'adapter':
-      //   return const AdapterExample();
+      case 'adapter':
+        return const AdapterExample();
       // case 'bridge':
       //   return const BridgeExample();
       // case 'builder':
