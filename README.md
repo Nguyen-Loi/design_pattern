@@ -1,7 +1,7 @@
 # Design Pattern
 
 ##Cretional
-- Singleton
+- Singleton ✔
 - Prototype
 - Factory Method
 - Builder
@@ -14,7 +14,7 @@
 - Facade
 - Flyweight
 - Proxy
-- Adapter
+- Adapter ✔
 
 ##Behavioral
 - Chain of Responsibility
