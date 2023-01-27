@@ -1,16 +1,30 @@
-# design_pattern_new
+# Design Pattern
 
-A new Flutter project.
+##Cretional
+- Singleton ✔
+- Prototype
+- Factory Method
+- Builder
+- Abstract Factory
 
-## Getting Started
+##Structural
+- Bridge
+- Composite
+- Decorator
+- Facade
+- Flyweight
+- Proxy
+- Adapter ✔
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Behavioral
+- Chain of Responsibility
+- Command
+- Strategy
+- State
+- Template Method
+- Interpreter
+- Iterator
+- Memento
+- Visitor
+- Mediator
+- Observer
