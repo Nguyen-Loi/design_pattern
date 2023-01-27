@@ -54,8 +54,8 @@ class DesignPatternsFactory {
       //   return const StateExample();
       // case 'strategy':
       //   return const StrategyExample();
-      // case 'template-method':
-      //   return const TemplateMethodExample();
+      case 'template-method':
+        return const TemplateMethodExample();
       // case 'visitor':
       //   return const VisitorExample();
       default:
